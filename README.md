@@ -35,12 +35,12 @@ Run the Script:
 Execute the Python script to perform sentiment analysis and get recommendations:
 
 
-python forex_sentiment_analysis.py
+python Forex_analysis_reccom.py
 View Output:
 The script will output the sentiment score, recent close price, and recommendation (Bullish/Bearish) for each forex pair. Additionally, it will display a sentiment distribution plot for each pair.
 
 Project Structure
-forex_sentiment_analysis.py: The main script that performs the sentiment analysis and data retrieval.
+Forex_analysis_reccom.py: The main script that performs the sentiment analysis and data retrieval.
 README.md: This README file providing an overview of the project.
 Examples
 After running the script, you will see outputs similar to the following:
